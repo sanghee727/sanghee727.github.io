@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-layout: default
+layout: teaching
 ---
 
 ## University of Illinois at Urbana-Champaign (UIUC)
