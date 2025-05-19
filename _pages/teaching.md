@@ -35,24 +35,20 @@ author_profile: true
     - Assisted in teaching econometrics course for ~60 students
     - Topics included GLS, IVE, LDV, Censored Regression, Sample Selection, and Panel Data Analysis
 
-<style>
-.page__inner-wrap {
-  max-width: 900px !important;
-  margin: 0 auto !important;
-}
 
+<style>
 .page__content {
+  max-width: 800px;
+  margin: auto;
   font-size: 17px;
-  line-height: 1.7;
-  margin-top: 0 !important;
-  padding-top: 0 !important;
+  line-height: 1.6;
 }
 
 .page__content h2 {
-  font-size: 24px;
-  border-bottom: 2px solid #eee;
-  padding-bottom: 10px;
-  margin-top: 20px;
+  font-weight: bold;
+  color: #003366;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 20px;
 }
 
 .page__content ul {
@@ -61,12 +57,12 @@ author_profile: true
 }
 
 .page__content li {
-  margin-bottom: 10px;
+  padding-bottom: 10px;
 }
 
 .page__content a {
-  text-decoration: none;
   color: #007bff;
+  text-decoration: none;
 }
 
 .page__content a:hover {
