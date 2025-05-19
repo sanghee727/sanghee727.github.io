@@ -1,11 +1,9 @@
----
 title: "Research"
 permalink: /research/
----
-
-# Research
+layout: default
 
 
+ 
 
 ## Publications
 
@@ -13,4 +11,5 @@ permalink: /research/
 ## Working Papers
 
 
+## Work in Progress
  
