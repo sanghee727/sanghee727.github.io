@@ -65,15 +65,15 @@ My primary research interests include:
   }
   
   .page__content h1 {
-      font-size: 30px;
-  }
-
-  .page__content h2 {
       font-size: 26px;
   }
 
-  .page__content h3 {
+  .page__content h2 {
       font-size: 22px;
+  }
+
+  .page__content h3 {
+      font-size: 18px;
   }
 </style>
 
