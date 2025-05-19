@@ -61,19 +61,19 @@ My primary research interests include:
 <style>
   /* clearly increases font size of main content text */
   .page__content, .page__content p, .page__content li {
-      font-size: 18px;  /* adjust the number clearly as needed */
+      font-size: 16px;  /* adjust the number clearly as needed */
   }
   
   .page__content h1 {
-      font-size: 26px;
+      font-size: 24px;
   }
 
   .page__content h2 {
-      font-size: 22px;
+      font-size: 20px;
   }
 
   .page__content h3 {
-      font-size: 18px;
+      font-size: 16px;
   }
 </style>
 
