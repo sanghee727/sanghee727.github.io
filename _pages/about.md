@@ -58,3 +58,23 @@ My primary research interests include:
 - *2017.07* Veritas Program Scholarship, Korea University
 - *2015.07* National Scholarship For Humanities And Social Sciences, Korea Student Aid Foundation
 
+<style>
+  /* clearly increases font size of main content text */
+  .page__content, .page__content p, .page__content li {
+      font-size: 18px;  /* adjust the number clearly as needed */
+  }
+  
+  .page__content h1 {
+      font-size: 30px;
+  }
+
+  .page__content h2 {
+      font-size: 26px;
+  }
+
+  .page__content h3 {
+      font-size: 22px;
+  }
+</style>
+
+
