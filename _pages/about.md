@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at <a href="https://siebelschool.illinois.edu/" style="color: #7289da; text-decoration: none;">University of Illinois, Urbana-Champaign (UIUC)</a>, co-advised by Prof. <a href="https://fyy.cs.illinois.edu/" style="color: #7289da; text-decoration: none;">Francis Y. Yan</a> and Prof. <a href="https://deepakv.web.illinois.edu/" style="color: #7289da; text-decoration: none;">Deepak Vasisht</a>. Here is my <a href="assets/cv_seoyuloh.pdf" style="color: #7289da; text-decoration:none">CV</a>.
+I am a PhD student at <a href="https://siebelschool.illinois.edu/" style="color: #7289da; text-decoration: none;">University of Illinois, Urbana-Champaign (UIUC)</a>, co-advised by Prof. <a href="https://fyy.cs.illinois.edu/" style="color: #7289da; text-decoration: none;">Francis Y. Yan</a> and Prof. <a href="https://deepakv.web.illinois.edu/" style="color: #7289da; text-decoration: none;">Deepak Vasisht</a>. Here is my <a href="assets/cv_SangheeMun.pdf" style="color: #7289da; text-decoration:none">CV</a>.
 
 My primary research interests include:
 - Decentralized Networks
@@ -29,18 +29,18 @@ My primary research interests include:
 
 # 📝 Publications 
 - <font size="3">OrbitShare: A Multi-party Architecture for Decentralized LEO Satellite Networks</font>
-[[paper]](https://seoyuloh.github.io/)\
-**Seoyul Oh**, Bill Tao, Shreya Kannan, Deepak Vasisht \
+[[paper]](https://SangheeMun.github.io/)\
+**Sanghee Mun**, Bill Tao, Shreya Kannan, Deepak Vasisht \
 <span style="color:purple">**Under Review at NSDI 2026**</span> 
 
 - <font size="3">A Call for Decentralized Satellite Networks</font>
 [[paper]](https://dl.acm.org/doi/10.1145/3696348.3696896) [[slides]](/assets/MP-LEO_slides.pdf)\
-**Seoyul Oh**, Deepak Vasisht \
+**Sanghee Mun**, Deepak Vasisht \
 <span style="color:purple">**ACM Workshop on Hot Topics in Networks (HotNets 2024)**</span> 
 
 - <font size="3">EcoCell: Energy-aware Traffic Shaping for Cellular Radio Access Networks</font>
 [[poster version]](assets/ecocell_poster.pdf) \
-Zikun liu, **Seoyul Oh**, Bill Tao, Anuj Kalia, Yaxiong Xie, Deepak Vasisht \
+Zikun liu, **Sanghee Mun**, Bill Tao, Anuj Kalia, Yaxiong Xie, Deepak Vasisht \
 <span style="color:purple">**Under Review at Sigcomm 2025**</span> 
 
 
