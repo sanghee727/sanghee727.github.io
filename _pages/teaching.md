@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-layout: single
+layout: default
 author_profile: true
 ---
 
@@ -68,5 +68,4 @@ author_profile: true
 .page__content a:hover {
   text-decoration: underline;
 }
-
 </style>
