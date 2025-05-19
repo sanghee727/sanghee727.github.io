@@ -24,7 +24,9 @@ My primary research interests include:
 - Public Economics
 - Applied Econometrics 
 
-# 🔥 News
+
+
+#   News
 - *2024.09*: &nbsp;🎉 One paper accepted to **Economics Letters**  
 - *2020.09*: &nbsp;🎉 Started my Ph.D. program at **UIUC**! 
 
@@ -32,12 +34,12 @@ My primary research interests include:
 
  
 
-# 📖 Educations
+#  Educations
 - *2023.08 - Present*, Ph.D in Economics, <a href="https://economics.illinois.edu/" style="color: #7289da; text-decoration: none;">UIUC</a>.
 - *2018.09 - 2020.02*, M.A. in Economics, <a href="https://econ2.korea.ac.kr" style="color: #7289da; text-decoration: none;">Korea University</a>. (Advisor: <a href="https://sites.google.com/site/mjleeku/" style="color: #7289da; text-decoration: none;">Prof. Myoungjae Lee</a>)
 - *2014.03 - 2018.08*, B.A. in Economics and Financial Engineering (Second Major), <a href="https://econ2.korea.ac.kr" style="color: #7289da; text-decoration: none;">Korea University</a>.
 
-# 💻 Conference and Workshop
+#  Conference and Workshop
 - *2024*: Association for Public Policy Analysis and Management(APPAM)
 - *2024*: Southern Economics Association (SEA) - Invited
 - *2024*: Midwest Economics Association (MEA)
@@ -45,7 +47,7 @@ My primary research interests include:
 
 
 
-# 🎖 Honors and Awards
+#  Honors and Awards
 - *2024.05* Robert E. Demarest Memorial Award, UIUC
 - *2024.03* Travel Award, UIUC
 - *2022.09* Excellence in Teaching Awards, EGSO, UIUC 
