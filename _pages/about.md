@@ -28,12 +28,7 @@ My primary research interests include:
 - *2024.09*: &nbsp;🎉 One paper accepted to **Economics Letters**  
 - *2020.09*: &nbsp;🎉 Started my Ph.D. program at **UIUC**! 
 
-# 📝 Publications 
-- <font size="3">Single-sex schools and students' Physical Health: 
-Evidence from National Physical Test in South Korea</font>
-[[paper]](https://SangheeMun.github.io/)\
-**Sanghee Mun**, Youngjoo Jung \
-<span style="color:purple">*Economics Letters**</span> 
+
 
  
 

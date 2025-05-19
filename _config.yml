@@ -27,8 +27,8 @@ author:
   location         : "Urbana-Champaign, IL"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=9bSluloAAAAJ&hl=en&oi=ao"
-  email            : "Sangheeo2@illinois.edu"
+  googlescholar    : # "https://scholar.google.com/citations?user=9bSluloAAAAJ&hl=en&oi=ao"
+  email            : "mun6@illinois.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Sanghee-Mun" # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/sanghee-mun-a75567355/" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
