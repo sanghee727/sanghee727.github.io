@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Sanghee Mun"
-  avatar           : "images/profile_me.png"
+  avatar           : "images/profile_me.jpeg"
   bio              : 
   location         : "Urbana-Champaign, IL"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SangheeMun" # e.g., "github username"
+  github           : "sanghee727" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
