@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Economics at <a href="https://siebelschool.illinois.edu/" style="color: #7289da; text-decoration: none;">University of Illinois, Urbana-Champaign (UIUC)</a>, co-advised by Prof. <a href="https://elizaforsythe.web.illinois.edu" style="color: #7289da; text-decoration: none;">Eliza Forsythe</a> and Prof. <a href="https://sites.google.com/site/benjaminmmarx/" style="color: #7289da; text-decoration: none;">Benjamin M. Marx</a>. Here is my <a href="assets/cv_sanghee.pdf" style="color: #7289da; text-decoration:none">CV</a>.
+I am a PhD student in Economics at <a href="https://siebelschool.illinois.edu/" style="color: #7289da; text-decoration: none;">University of Illinois, Urbana-Champaign (UIUC)</a>, co-advised by Prof. <a href="https://elizaforsythe.web.illinois.edu" style="color: #7289da; text-decoration: none;">Eliza Forsythe</a> and Prof. <a href="https://sites.google.com/site/benjaminmmarx/" style="color: #7289da; text-decoration: none;">Benjamin M. Marx</a>. Here is my <a href="assets/ .pdf" style="color: #7289da; text-decoration:none">CV</a>.
 
 My primary research interests include:
 - Labor Economics
