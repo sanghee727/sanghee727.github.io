@@ -39,6 +39,7 @@ My primary research interests include:
 - *2024*: Association for Public Policy Analysis and Management(APPAM)
 - *2024*: Southern Economics Association (SEA) - Invited
 - *2024*: Midwest Economics Association (MEA)
+- *2024*: AMIE 2024
 - *2023*: CSWEP PhD Economics Students Mentoring Workshop in Health Economics and Health Policy
 
 
