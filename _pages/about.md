@@ -38,7 +38,7 @@ My primary research interests include:
 
 # Publication and Others
 - Single-sex schools and students’ Physical Health: Evidence from National Physical Test in South Korea (with Youngjoo Jung), **Economics Letters**, 2025
-- Analysis of Unemployment Insurance Claimant Experience Survey (with Eliza Forsythe) (Report prepared for the Illinois Department of Employment Security (IDES))
+- Analysis of Unemployment Insurance Claimant Experience Survey (with Eliza Forsythe) (Report prepared for the **Illinois Department of Employment Security (IDES))**
 
  
 #  Conference and Workshop
