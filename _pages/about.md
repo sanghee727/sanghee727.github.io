@@ -35,6 +35,43 @@ My primary research interests include:
 - *2018.09 - 2020.02*, M.A. in Economics, <a href="https://econ2.korea.ac.kr" style="color: #7289da; text-decoration: none;">Korea University</a>. (Advisor: <a href="https://sites.google.com/site/mjleeku/" style="color: #7289da; text-decoration: none;">Prof. Myoungjae Lee</a>)
 - *2014.03 - 2018.08*, B.A. in Economics and Financial Engineering (Second Major), <a href="https://econ2.korea.ac.kr" style="color: #7289da; text-decoration: none;">Korea University</a>.
 
+
+# Publication and Others
+- Single-sex schools and students’ Physical Health: Evidence from National Physical Test in South
+Korea (with Youngjoo Jung) Economics Letters, 2025
+- Analysis of Unemployment Insurance Claimant Experience Survey (with Eliza Forsythe) (Report
+prepared for the Illinois Department of Employment Security (IDES))
+
+# Teaching
+## University of Illinois at Urbana-Champaign (UIUC)
+
+- **ECON 102: Microeconomic Principles**
+    - Spring 2025
+    - Fall 2023: *Awarded in the "List of Teachers Ranked as Excellent by their Students"*
+
+- **ECON 534: Macroeconomic Theory II (PhD core course)**
+    - Spring 2023: *Awarded in the "List of Teachers Ranked as Outstanding by their Students"*
+    - Spring 2022 (4.73/5): *Awarded in the "List of Teachers Ranked as Outstanding by their Students"*
+
+- **ECON 531: Macroeconomic Theory I (PhD core course)**
+    - Fall 2022 (4.46/5): *Awarded in the "List of Teachers Ranked as Excellent by their Students"*
+    - Fall 2021 (4.63/5): *Awarded in the "List of Teachers Ranked as Outstanding by their Students"*
+
+## Korea University, Seoul, Korea
+
+- **Treatment Effect and Program Evaluation Analysis (Graduate course)** *(Fall 2019)*
+    - Taught basic GAUSS programming language for empirical analysis
+    - Graded data analysis assignments and exams
+    - Assisted in teaching graduate-level econometrics including Matching, RD, DiD
+
+- **Econometric Analysis (Graduate course)** *(Fall 2019)*
+    - Graded data analysis assignments and exams
+
+- **Intermediate Econometrics** *(Fall 2019)*
+    - Assisted in teaching econometrics course for ~60 students
+    - Topics included GLS, IVE, LDV, Censored Regression, Sample Selection, and Panel Data Analysis
+
+
 #  Conference and Workshop
 - *2024*: Association for Public Policy Analysis and Management(APPAM)
 - *2024*: Southern Economics Association (SEA) - Invited
