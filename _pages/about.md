@@ -40,15 +40,18 @@ My primary research interests include:
 - Single-sex schools and students’ Physical Health: Evidence from National Physical Test in South Korea (with Youngjoo Jung), **Economics Letters**, 2025
 - Analysis of Unemployment Insurance Claimant Experience Survey (with Eliza Forsythe) (Report prepared for the Illinois Department of Employment Security (IDES))
 
+ 
+#  Conference and Workshop
+- *2024*: Association for Public Policy Analysis and Management(APPAM)
+- *2024*: Southern Economics Association (SEA) - Invited
+- *2024*: Midwest Economics Association (MEA)
+- *2024*: AMIE 2024
+- *2023*: CSWEP PhD Economics Students Mentoring Workshop in Health Economics and Health Policy
 
 
 # Teaching
 
-<small>
-
-## University of Illinois at Urbana-Champaign (UIUC)
-
-</small>
+<small>University of Illinois at Urbana-Champaign (UIUC)</small>
 
 - **ECON 102: Microeconomic Principles**
     - Spring 2025
@@ -62,11 +65,7 @@ My primary research interests include:
     - Fall 2022 (4.46/5): *Awarded in the "List of Teachers Ranked as Excellent by their Students"*
     - Fall 2021 (4.63/5): *Awarded in the "List of Teachers Ranked as Outstanding by their Students"*
 
-<small>
-
-## Korea University, Seoul, Korea
-
-</small>
+<small>Korea University, Seoul, Korea</small>
 
 - **Treatment Effect and Program Evaluation Analysis (Graduate course)** *(Fall 2019)*
     - Taught basic GAUSS programming language for empirical analysis
@@ -79,15 +78,6 @@ My primary research interests include:
 - **Intermediate Econometrics** *(Fall 2019)*
     - Assisted in teaching econometrics course for ~60 students
     - Topics included GLS, IVE, LDV, Censored Regression, Sample Selection, and Panel Data Analysis
-
-
-
-#  Conference and Workshop
-- *2024*: Association for Public Policy Analysis and Management(APPAM)
-- *2024*: Southern Economics Association (SEA) - Invited
-- *2024*: Midwest Economics Association (MEA)
-- *2024*: AMIE 2024
-- *2023*: CSWEP PhD Economics Students Mentoring Workshop in Health Economics and Health Policy
 
 
 
