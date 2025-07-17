@@ -37,13 +37,18 @@ My primary research interests include:
 
 
 # Publication and Others
-- Single-sex schools and students’ Physical Health: Evidence from National Physical Test in South
-Korea (with Youngjoo Jung) Economics Letters, 2025
-- Analysis of Unemployment Insurance Claimant Experience Survey (with Eliza Forsythe) (Report
-prepared for the Illinois Department of Employment Security (IDES))
+- Single-sex schools and students’ Physical Health: Evidence from National Physical Test in South Korea (with Youngjoo Jung), **Economics Letters**, 2025
+- Analysis of Unemployment Insurance Claimant Experience Survey (with Eliza Forsythe) (Report prepared for the Illinois Department of Employment Security (IDES))
+
+
 
 # Teaching
+
+<small>
+
 ## University of Illinois at Urbana-Champaign (UIUC)
+
+</small>
 
 - **ECON 102: Microeconomic Principles**
     - Spring 2025
@@ -57,7 +62,11 @@ prepared for the Illinois Department of Employment Security (IDES))
     - Fall 2022 (4.46/5): *Awarded in the "List of Teachers Ranked as Excellent by their Students"*
     - Fall 2021 (4.63/5): *Awarded in the "List of Teachers Ranked as Outstanding by their Students"*
 
+<small>
+
 ## Korea University, Seoul, Korea
+
+</small>
 
 - **Treatment Effect and Program Evaluation Analysis (Graduate course)** *(Fall 2019)*
     - Taught basic GAUSS programming language for empirical analysis
@@ -70,6 +79,7 @@ prepared for the Illinois Department of Employment Security (IDES))
 - **Intermediate Econometrics** *(Fall 2019)*
     - Assisted in teaching econometrics course for ~60 students
     - Topics included GLS, IVE, LDV, Censored Regression, Sample Selection, and Panel Data Analysis
+
 
 
 #  Conference and Workshop
