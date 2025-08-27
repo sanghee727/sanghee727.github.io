@@ -7,11 +7,12 @@ permalink: /research/
  
 
 ## Publications and Others
+*Click a title to view the abstract.*
 
 <details>
-  <summary><strong>Single-sex schools and students’ Physical Health: Evidence from National Physical Test in South Korea</strong> (with Youngjoo Jung, Economics Letters (2025) <)</summary>
+  <summary><strong>Single-sex schools and students’ Physical Health: Evidence from National Physical Test in South Korea</strong> (with Youngjoo Jung, Economics Letters (2025))</summary>
   <p>
-    <em>Economics Letters, 2025</em>  
+  
     Abstract: Leveraging a randomized natural experiment, this study examines the impact of attending single-sex middle schools on students' physical fitness, measured through standardized nationwide physical tests. In South Korea, middle school students are assigned by lottery to either single-sex or coeducational schools within their designated school zones, providing an ideal setting to evaluate the effects of single-sex schooling. Using school-level data covering all middle schools, the study finds that boys attending single-sex schools achieve significantly higher pass rates on standardized physical fitness tests, suggesting improved physical fitness compared to their peers in coeducational schools.  
     However, no similar improvement is observed for girls attending single-sex schools. These findings suggest that single-sex schooling has differential effects by gender, highlighting the need to further research to understand the mechanisms underlying these varied outcomes.  
     📄 <a href="https://www.sciencedirect.com/science/article/pii/S0165176525001168" target="_blank">View Paper</a>  
@@ -20,15 +21,16 @@ permalink: /research/
 
 
 <details>
-  <summary><strong>Analysis of Unemployment Insurance Claimant Experience Survey</strong> (with Eliza Forsythe)</summary>
+  <summary><strong>Analysis of Unemployment Insurance Claimant Experience Survey</strong> (with Eliza Forsythe, Report prepared for the Illinois Department of Employment Security (IDES))</summary>
   <p>
-    Report prepared for the Illinois Department of Employment Security (IDES).  
+     
     Abstract: This report analyzes the Illinois Unemployment Insurance (UI) Claimant Experience Survey, conducted between August 2023 and August 2024, with the goal of improving equity in access to UI benefits and strengthening survey design. Using regression analysis of demographic characteristics and text analysis of open-ended responses, we examine how claimants’ backgrounds and filing circumstances shape their reported experiences with the UI system. The study focuses on key dimensions of the claimant journey, including sources of information, reliance on in-person services, perceived difficulty of filing, and narrative accounts of the process. By combining quantitative and qualitative evidence, the report provides insights into heterogeneity across demographic groups and filing types, and develops recommendations for improving data collection, reweighting procedures, and survey integration to support more representative and actionable insights for IDES.  
   </p>
 </details>
 ---
 
 ## Working Papers
+*Click a title to view the abstract.*
 
 <details>
   <summary><strong>Disrupted Support, Disrupted Careers: Time Constraints and Occupational Heterogeneity in Women's Labor Market Behavior</strong> (Job Market Paper)</summary>
@@ -62,7 +64,7 @@ permalink: /research/
 <details>
   <summary><strong>Effects of Eliminating Early Morning School Hours on Adolescents’ Sleep Patterns, Health, and Time Use</strong></summary>
   <p>
-    Abstract: This project investigates the consequences of delaying school start times on adolescents’ sleep patterns, overall health, and daily time allocation.  
+    Abstract: By examining the nine o'clock attendance policy implemented in Gyeonggi Province of Korea, this paper investigates the effects of eliminating early morning school hours on adolescents’ sleep patterns and health. The results indicate that the policy significantly delays adolescents' hours of rising on weekdays. However, the increment in sleep duration that resulted from the later waking time was partly offset by the deferral of bedtime. Additionally, the increase in the length of sleep derived from the policy has decreased over time. On weekends, there were no significant changes in their wake-up time, while their habit of going to bed late persisted, resulting in a significant decrease in sleep duration. The estimates on various health measures implied an adverse impact of the policy on adolescents’ health. To identify the possible mechanism behind health deterioration, this paper also examined its impact on time use. The results indicate that adolescents spent more time studying. The changes in their time allocation, accompanied by the higher academic pressure, may have affected their health via the policy.     
   </p>
 </details>
 ---
