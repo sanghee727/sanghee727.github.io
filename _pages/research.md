@@ -9,7 +9,7 @@ permalink: /research/
 ## Publications and Others
 *Click a title to view the abstract.*
 
-<details>
+- <details>
   <summary><strong>Single-sex schools and students’ Physical Health: Evidence from National Physical Test in South Korea</strong> (with Youngjoo Jung, Economics Letters (2025))</summary>
   <p>
   
@@ -20,7 +20,7 @@ permalink: /research/
 </details>
 
 
-<details>
+- <details>
   <summary><strong>Analysis of Unemployment Insurance Claimant Experience Survey</strong> (with Eliza Forsythe, Report prepared for the Illinois Department of Employment Security (IDES))</summary>
   <p>
      
@@ -32,7 +32,7 @@ permalink: /research/
 ## Working Papers
 *Click a title to view the abstract.*
 
-<details>
+- <details>
   <summary><strong>Disrupted Support, Disrupted Careers: Time Constraints and Occupational Heterogeneity in Women's Labor Market Behavior</strong> (Job Market Paper)</summary>
   <p>
     Abstract: Skilled women often rely on outsourced household services to balance professional and household responsibilities. When the availability of these services contracts—such as through changes in local labor market conditions—women face intensified time constraints, often forcing a reallocation of hours toward household tasks at the expense of market work. The extent of this adjustment can differ across occupations due to variation in job demands and constraints.  
@@ -43,7 +43,7 @@ permalink: /research/
   </p>
 </details>
 
-<details>
+- <details>
   <summary><strong>Impact of the Drug Crisis During Adolescence on Educational and Labor Market Outcomes</strong> (with Sunny Liu)</summary>
   <p>
     Abstract: Drug overdose in the United States has increased over six times in the past three decades. We investigate the education and labor market consequences of adolescent exposure to the drug crisis. Previous research has largely focused on the direct labor market effects on drug users. Our paper shifts focus to the long-term consequences, specifically examining the educational attainment and labor market outcomes of adolescents who grew up in communities affected by the drug crisis.  
@@ -52,7 +52,7 @@ permalink: /research/
   </p>
 </details>
 
-<details>
+- <details>
   <summary><strong>Unintended Benefits: Immigrant-Inclusive Policy, Mental Health, and Risk Behaviors of Hispanic Adolescents</strong></summary>
   <p>
     Abstract: This study examines the effects of immigrant-inclusive policy on the mental health and risk behaviors among Hispanic adolescents using state-level sanctuary policy. Employing a difference-in-differences design, the findings reveal significant mental health benefits, including a 10% reduction in reports of sadness and a 16% decrease in the probability of considering suicide. Additionally, declines in risk behaviors are observed with a 35% reduction in smoking initiation, a 15% decrease in the likelihood of currently smoking, and a 9% drop in alcohol consumption.  
@@ -61,7 +61,7 @@ permalink: /research/
   </p>
 </details>
 
-<details>
+- <details>
   <summary><strong>Effects of Eliminating Early Morning School Hours on Adolescents’ Sleep Patterns, Health, and Time Use</strong></summary>
   <p>
     Abstract: By examining the nine o'clock attendance policy implemented in Gyeonggi Province of Korea, this paper investigates the effects of eliminating early morning school hours on adolescents’ sleep patterns and health. The results indicate that the policy significantly delays adolescents' hours of rising on weekdays. However, the increment in sleep duration that resulted from the later waking time was partly offset by the deferral of bedtime. Additionally, the increase in the length of sleep derived from the policy has decreased over time. On weekends, there were no significant changes in their wake-up time, while their habit of going to bed late persisted, resulting in a significant decrease in sleep duration. The estimates on various health measures implied an adverse impact of the policy on adolescents’ health. To identify the possible mechanism behind health deterioration, this paper also examined its impact on time use. The results indicate that adolescents spent more time studying. The changes in their time allocation, accompanied by the higher academic pressure, may have affected their health via the policy.     
