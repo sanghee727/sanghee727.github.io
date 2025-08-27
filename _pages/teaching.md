@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: subpage
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
 ---
+
 
 
 ## University of Illinois at Urbana-Champaign (UIUC)

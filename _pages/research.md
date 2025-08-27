@@ -1,9 +1,8 @@
 ---
-layout: page
-title: "Teaching"
-permalink: /teaching/
+layout: subpage
+title: "Research"
+permalink: /research/
 ---
-
 
  
 
