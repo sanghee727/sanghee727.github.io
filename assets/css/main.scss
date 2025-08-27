@@ -113,7 +113,43 @@ h1:before, .anchor:before {
     margin-bottom: 1.2em;  /* space after each item */
   }
   
-  .page__content h2, .page__content h3 {
-    margin-top: 2em;  /* extra space before section headings like Publications */
+/* Make section headings more visible */
+.page__content h2 {
+    font-size: 1.5em;        /* slightly larger */
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    font-weight: 700;
+    color: #222;             /* darker for emphasis */
+    border-bottom: 2px solid #003366;  /* stronger underline */
+    padding-bottom: 0.3em;
+  }
+
+
+
+/* Style clickable research titles */
+.page__content summary {
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1.05em;
+    color: #003366;           /* dark blue, matches academic theme */
+    list-style: none;         /* remove default arrow style */
+    margin-bottom: 0.5em;
+    padding: 0.2em 0;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .page__content summary::before {
+    content: "▶ ";            /* arrow indicator */
+    font-size: 0.9em;
+    color: #555;
+  }
+  
+  .page__content details[open] summary::before {
+    content: "▼ ";            /* arrow flips when opened */
+  }
+  
+  .page__content summary:hover {
+    background-color: #f2f6fc;  /* subtle highlight on hover */
   }
   

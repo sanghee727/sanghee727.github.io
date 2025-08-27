@@ -9,7 +9,7 @@ permalink: /research/
 ## Publications and Others
 
 <details>
-  <summary><strong>Single-sex schools and students’ Physical Health: Evidence from National Physical Test in South Korea</strong> (with Youngjoo Jung)</summary>
+  <summary><strong>Single-sex schools and students’ Physical Health: Evidence from National Physical Test in South Korea</strong> (with Youngjoo Jung, Economics Letters (2025) <)</summary>
   <p>
     <em>Economics Letters, 2025</em>  
     Abstract: Leveraging a randomized natural experiment, this study examines the impact of attending single-sex middle schools on students' physical fitness, measured through standardized nationwide physical tests. In South Korea, middle school students are assigned by lottery to either single-sex or coeducational schools within their designated school zones, providing an ideal setting to evaluate the effects of single-sex schooling. Using school-level data covering all middle schools, the study finds that boys attending single-sex schools achieve significantly higher pass rates on standardized physical fitness tests, suggesting improved physical fitness compared to their peers in coeducational schools.  
