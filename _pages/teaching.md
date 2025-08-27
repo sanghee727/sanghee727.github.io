@@ -35,36 +35,4 @@ author_profile: true
     - Topics included GLS, IVE, LDV, Censored Regression, Sample Selection, and Panel Data Analysis
 
 
-<style>
-.page__content {
-  max-width: 800px;
-  margin: auto;
-  font-size: 17px;
-  line-height: 1.6;
-}
-
-.page__content h2 {
-  font-weight: bold;
-  color: #003366;
-  border-bottom: 1px solid #eee;
-  margin-bottom: 20px;
-}
-
-.page__content ul {
-  list-style-type: none;
-  padding-left: 0;
-}
-
-.page__content li {
-  padding-bottom: 10px;
-}
-
-.page__content a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-.page__content a:hover {
-  text-decoration: underline;
-}
-</style>
+ 
