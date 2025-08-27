@@ -6,7 +6,7 @@ permalink: /research/
 
  
 
-## Publications
+## Publications and Others
 
 <details>
   <summary><strong>Single-sex schools and students’ Physical Health: Evidence from National Physical Test in South Korea</strong> (with Youngjoo Jung)</summary>
@@ -18,9 +18,6 @@ permalink: /research/
   </p>
 </details>
 
----
-
-## Working Papers
 
 <details>
   <summary><strong>Analysis of Unemployment Insurance Claimant Experience Survey</strong> (with Eliza Forsythe)</summary>
@@ -29,10 +26,9 @@ permalink: /research/
     Abstract: This report analyzes the Illinois Unemployment Insurance (UI) Claimant Experience Survey, conducted between August 2023 and August 2024, with the goal of improving equity in access to UI benefits and strengthening survey design. Using regression analysis of demographic characteristics and text analysis of open-ended responses, we examine how claimants’ backgrounds and filing circumstances shape their reported experiences with the UI system. The study focuses on key dimensions of the claimant journey, including sources of information, reliance on in-person services, perceived difficulty of filing, and narrative accounts of the process. By combining quantitative and qualitative evidence, the report provides insights into heterogeneity across demographic groups and filing types, and develops recommendations for improving data collection, reweighting procedures, and survey integration to support more representative and actionable insights for IDES.  
   </p>
 </details>
-
 ---
 
-## Work in Progress
+## Working Papers
 
 <details>
   <summary><strong>Disrupted Support, Disrupted Careers: Time Constraints and Occupational Heterogeneity in Women's Labor Market Behavior</strong> (Job Market Paper)</summary>
@@ -69,11 +65,13 @@ permalink: /research/
     Abstract: This project investigates the consequences of delaying school start times on adolescents’ sleep patterns, overall health, and daily time allocation.  
   </p>
 </details>
-
 ---
 
-## Additional Projects
-
+## Work in Progress
 - **Cure Model Difference-in-Differences Estimator** (with Wonjun Choi and Juhyeon Oh)  
 - **Opioid Crisis and Firm Response**  
 - **Racial Segregation and Health: Evidence from Historical Railroad Configuration**
+
+
+---
+ 

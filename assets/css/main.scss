@@ -107,3 +107,13 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Extra spacing between collapsible research entries */
+.page__content details {
+    margin-bottom: 1.2em;  /* space after each item */
+  }
+  
+  .page__content h2, .page__content h3 {
+    margin-top: 2em;  /* extra space before section headings like Publications */
+  }
+  
