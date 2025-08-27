@@ -1,8 +1,7 @@
 ---
-permalink: /teaching/
+layout: page
 title: "Teaching"
-layout: default
-author_profile: true
+permalink: /teaching/
 ---
 
 
