@@ -1,9 +1,9 @@
 ---
-layout: default
-title: "Research"
-permalink: /research/
-author_profile: true
+layout: page
+title: "Teaching"
+permalink: /teaching/
 ---
+
 
  
 
