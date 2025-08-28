@@ -31,7 +31,7 @@ My primary research interests include:
  
 
 #  Educations
-- *2023.08 - Present*, Ph.D in Economics, <a href="https://economics.illinois.edu/" style="color: #7289da; text-decoration: none;">UIUC</a>.
+- *2020.09 - Present*, Ph.D in Economics, <a href="https://economics.illinois.edu/" style="color: #7289da; text-decoration: none;">UIUC</a>.
 - *2018.09 - 2020.02*, M.A. in Economics, <a href="https://econ2.korea.ac.kr" style="color: #7289da; text-decoration: none;">Korea University</a>. (Advisor: <a href="https://sites.google.com/site/mjleeku/" style="color: #7289da; text-decoration: none;">Prof. Myoungjae Lee</a>)
 - *2014.03 - 2018.08*, B.A. in Economics and Financial Engineering (Second Major), <a href="https://econ2.korea.ac.kr" style="color: #7289da; text-decoration: none;">Korea University</a>.
 
