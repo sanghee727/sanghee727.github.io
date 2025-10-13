@@ -27,9 +27,6 @@ My research addresses policy-relevant questions by examining how policy shocks a
 **Email:** [mun6@illinois.edu](mailto:mun6@illinois.edu)
 <br><br><br>
  **Research Interests**: Labor Economics, Health Economics, Public Economics, Applied Econometrics
-
-<br><br>
-
 <style>
   .link-blue-bold {
     color:#1e3a8a;            /* navy-ish, a bit brighter */
