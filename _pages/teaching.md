@@ -23,7 +23,7 @@ permalink: /teaching/
 ## Korea University, Seoul, Korea
 
 - **Treatment Effect and Program Evaluation Analysis (Graduate course)** *(Fall 2019)
-*- **Econometric Analysis (Graduate course)** *(Fall 2019)*
+- **Econometric Analysis (Graduate course)** *(Fall 2019)*
 - **Intermediate Econometrics** *(Fall 2019)*
 
 
