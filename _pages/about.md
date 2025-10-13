@@ -28,7 +28,7 @@ My research addresses policy-relevant questions by examining how policy shocks a
 <br><br><br>
  **Research Interests**: Labor Economics, Health Economics, Public Economics, Applied Econometrics
 
-<br><br><
+<br><br>
 
 <style>
   .link-blue-bold {
