@@ -22,17 +22,10 @@ permalink: /teaching/
 
 ## Korea University, Seoul, Korea
 
-- **Treatment Effect and Program Evaluation Analysis (Graduate course)** *(Fall 2019)*
-    - Taught basic GAUSS programming language for empirical analysis
-    - Graded data analysis assignments and exams
-    - Assisted in teaching graduate-level econometrics including Matching, RD, DiD
-
+- **Treatment Effect and Program Evaluation Analysis (Graduate course)** *(Fall 2019)
 - **Econometric Analysis (Graduate course)** *(Fall 2019)*
-    - Graded data analysis assignments and exams
-
 - **Intermediate Econometrics** *(Fall 2019)*
-    - Assisted in teaching econometrics course for ~60 students
-    - Topics included GLS, IVE, LDV, Censored Regression, Sample Selection, and Panel Data Analysis
+
 
 
  
