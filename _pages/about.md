@@ -22,11 +22,13 @@ I am a PhD candidate in Economics at <a href="https://siebelschool.illinois.edu/
 <br><br>
 My research addresses policy-relevant questions by examining how policy shocks and economic disruptions reshape individual and household choices, including labor supply and human capital investment.
 <br><br>
+ **Research Interests**: Labor Economics, Health Economics, Public Economics, Applied Econometrics
+<br><br>
 **I will be on the job market in the 2025-2026 academic year**
 <br><br><br>
- **Research Interests**: Labor Economics, Health Economics, Public Economics, Applied Econometrics
+
+
 **Email:** [mun6@illinois.edu](mailto:mun6@illinois.edu)
-<br><br>
 <style>
   .link-blue-bold {
     color:#1e3a8a;            /* navy-ish, a bit brighter */
@@ -42,21 +44,21 @@ My research addresses policy-relevant questions by examining how policy shocks a
 </style>
 
 <!-- Line 1 -->
+<!-- Line 1 -->
 <div>
   <a class="link-blue-bold" href="{{ '/assets/cv_sanghee.pdf' | relative_url }}" target="_blank" rel="noopener">CV</a>
   <span class="sep">|</span>
   <a class="link-blue-bold" href="https://www.dropbox.com/scl/fi/5n41hospegh60dkggpc30/Job_Market_Paper.pdf?rlkey=v2yd9mhi5rkgk8ls7xm4z2gvk&st=yqngqcjr&dl=0" target="_blank" rel="noopener">Job Market Paper</a>
+  <span class="sep">|</span>
+  <a class="link-blue-bold" href="https://www.dropbox.com/scl/fi/ooofasbxinpz58lchql1n/Research_Statement.pdf?rlkey=tivnqhvky6xir4z5kwp7yl7jm&st=b6952q4j&dl=0" target="_blank" rel="noopener">Research Statement</a>
 </div>
 
 <!-- Line 2 -->
 <div style="margin-top:0.4rem;">
-  <a class="link-blue-bold" href="https://www.dropbox.com/scl/fi/ooofasbxinpz58lchql1n/Research_Statement.pdf?rlkey=tivnqhvky6xir4z5kwp7yl7jm&st=b6952q4j&dl=0" target="_blank" rel="noopener">Research Statement</a>
-  <span class="sep">|</span>
   <a class="link-blue-bold" href="https://www.dropbox.com/scl/fi/50a92nxbx41bbtdlcf5km/Teaching_Statement.pdf?rlkey=018xey7u2lrkh8by42gn5kxsn&st=avs5ksyz&dl=0" target="_blank" rel="noopener">Teaching Statement</a>
   <span class="sep">|</span>
   <a class="link-blue-bold" href="https://www.dropbox.com/scl/fi/5q9ra71gqkw7a3ct90mob/Teaching_Effectiveness.pdf?rlkey=3ckaprcbtji3ot6o9ezsc32wn&st=ymdbe7hl&dl=0" target="_blank" rel="noopener">Statement of Teaching Effectiveness</a>
 </div>
-
 
 <!-- Optional: add Research Statement (uncomment to use)
 <div style="margin-top:0.4rem;">
