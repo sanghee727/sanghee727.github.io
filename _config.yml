@@ -7,13 +7,9 @@
 
 # Site Settings
 title                    : "Sanghee Mun"
-description              : "Economics Ph.D. Student at UIUC"
+description              : "Economics Ph.D. Candidate at UIUC"
 repository: "sanghee727/sanghee727.github.io"
-# Site Settings
-title                    : "Sanghee Mun"
-description              : "Economics Ph.D. Student at UIUC"
-repository               : "sanghee727/sanghee727.github.io"
-favicon: /images/econ.ico
+ 
 
 google_scholar_stats_use_cdn : true
 # google analytics
