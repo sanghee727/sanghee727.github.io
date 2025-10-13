@@ -54,15 +54,7 @@ permalink: /research/
         <em>(Job Market Paper)</em>
       </summary>
       <p>
-        <strong>Abstract:</strong> Skilled women often rely on outsourced household services to balance work and domestic responsibilities. Disruptions to these
-        services tighten their time constraints and affect their labor supply decisions. This paper examines how such disruptions influence skilled women’s
-        labor supply and how it differs across occupations with different returns to working long hours, exploiting the staggered rollout of the Secure
-        Communities immigration enforcement program. The first-stage estimates show that the program contracts the household service market by reducing
-        supply and increasing prices. Using this contraction, the paper shows that women’s working hours decline in high-return occupations, where rewards
-        for extended work are greater. Within these occupations, the largest reductions occur in those with moderately high returns, while effects are muted
-        in occupations with the highest returns. Consistently, women in high-return occupations increase time spent on household production. Among married
-        women, reductions are smaller when spouses hold flexible jobs. These findings highlight the importance of household-service capacity and family support
-        in sustaining women’s advancement in demanding careers and narrowing gender gaps.
+        <strong>Abstract:</strong> Skilled women often rely on outsourced household services to balance work and domestic responsibilities. Disruptions to these services tighten their time constraints and affect their labor supply decisions. This paper examines how such disruptions influence skilled women’s labor supply and how it differs across occupations with different returns to working long hours, exploiting the staggered rollout of the Secure Communities immigration enforcement program. The paper first shows that the program contracts the household service market by reducing supply and increasing prices. Using this contraction as a shock, the study reveals that women’s working hours decline in high-return occupations, where rewards for extended work are greater. Within these occupations, the largest reductions occur in those with moderately high returns, while effects are muted in occupations with the highest returns. Consistently, women in high-return occupations increase time spent on household production. Among married women, reductions are smaller when spouses hold flexible jobs. These findings highlight the importance of household-service capacity and family support in sustaining women’s advancement in demanding careers and narrowing gender gaps.
       </p>
     </details>
   </li>
