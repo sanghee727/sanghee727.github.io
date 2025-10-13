@@ -28,16 +28,35 @@ permalink: /research/
 ## Working Papers
 *Click a title to view the abstract.*
 
-- <details>
-    <summary><strong>Disrupted Support, Disrupted Careers: Time Constraints and Occupational Heterogeneity in Women's Labor Market Behavior</strong> (Job Market Paper)</summary>
-    <p>
-       Abstract: Skilled women often rely on outsourced household services to balance professional and household responsibilities.  When the availability of these services contracts—such as through changes in local labor market conditions—women face intensified time constraints, often forcing a reallocation of hours toward household tasks at the expense of market work. The extent of this adjustment can differ across occupations due to variation in job demands and constraints. 
-      
-       This paper exploits the staggered rollout of the Secure Communities immigration enforcement program as an exogenous shock, reducing the availability of domestic service workers to estimate its impact on women’s labor supply. A difference-in-differences model using American Community Survey data shows that the shock significantly reduced the working hours of college-educated women in skilled occupations. The reductions are significantly larger for women in “time-greedy” occupations—those with a convex wage structure that disproportionately rewards long hours—compared to women in low-return occupations. This pattern can arise when greater reliance on outsourced services prior to the shock amplifies the impact of service disruptions. Among married women in high-return occupations, the reductions are substantially smaller when spouses hold flexible jobs, highlighting the importance of intra-household dynamics in buffering the career consequences of service disruptions. 
-      
-       These findings reveal an important channel through which disruptions in household services increase women's time constraints, producing occupation-specific penalties for women’s labor supply and potentially widening gender disparities among skilled professionals.
-    </p>
-  </details>
+<!-- Optional style to keep the title link bold + navy-ish -->
+<style>
+  .link-blue-bold {
+    color:#1e3a8a; text-decoration:none; font-weight:700;
+  }
+  .link-blue-bold:hover { text-decoration:underline; }
+</style>
+
+<details>
+  <summary>
+    <a class="link-blue-bold"
+       href="https://www.dropbox.com/scl/fi/5n41hospegh60dkggpc30/Job_Market_Paper.pdf?rlkey=v2yd9mhi5rkgk8ls7xm4z2gvk&st=wf72ymre&dl=0"
+       target="_blank" rel="noopener">
+      Disrupted Support, Disrupted Careers: Time Constraints and Skilled Women's Labor Market Response
+    </a>
+    <em>(Job Market Paper)</em>
+  </summary>
+  <p>
+    <strong>Abstract:</strong> Skilled women often rely on outsourced household services to balance work and domestic responsibilities. Disruptions to these
+    services tighten their time constraints and affect their labor supply decisions. This paper examines how such disruptions influence skilled women’s
+    labor supply and how it differs across occupations with different returns to working long hours, exploiting the staggered rollout of the Secure
+    Communities immigration enforcement program. The first-stage estimates show that the program contracts the household service market by reducing
+    supply and increasing prices. Using this contraction, the paper shows that women’s working hours decline in high-return occupations, where rewards
+    for extended work are greater. Within these occupations, the largest reductions occur in those with moderately high returns, while effects are muted
+    in occupations with the highest returns. Consistently, women in high-return occupations increase time spent on household production. Among married
+    women, reductions are smaller when spouses hold flexible jobs. These findings highlight the importance of household-service capacity and family support
+    in sustaining women’s advancement in demanding careers and narrowing gender gaps.
+  </p>
+</details>
 
 - <details>
     <summary><strong>Impact of the Drug Crisis During Adolescence on Educational and Labor Market Outcomes</strong> (with Sunny Liu)</summary>
