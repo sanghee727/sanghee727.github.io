@@ -36,7 +36,7 @@ permalink: /research/
   .link-blue-bold:hover { text-decoration:underline; }
 </style>
 
-<details>
+- <details>
   <summary>
     <a class="link-blue-bold"
        href="https://www.dropbox.com/scl/fi/5n41hospegh60dkggpc30/Job_Market_Paper.pdf?rlkey=v2yd9mhi5rkgk8ls7xm4z2gvk&st=wf72ymre&dl=0"
