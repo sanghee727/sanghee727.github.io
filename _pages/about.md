@@ -22,13 +22,14 @@ I am a PhD candidate in Economics at <a href="https://siebelschool.illinois.edu/
 <br><br>
 My research addresses policy-relevant questions by examining how policy shocks and economic disruptions reshape individual and household choices, including labor supply and human capital investment.
 <br><br>
- **Research Interests**: Labor Economics, Health Economics, Public Economics, Applied Econometrics
-<br><br>
 **I will be on the job market in the 2025-2026 academic year**
-<br><br><br>
-
 
 **Email:** [mun6@illinois.edu](mailto:mun6@illinois.edu)
+<br><br><br>
+ **Research Interests**: Labor Economics, Health Economics, Public Economics, Applied Econometrics
+
+<br><br><
+
 <style>
   .link-blue-bold {
     color:#1e3a8a;            /* navy-ish, a bit brighter */
