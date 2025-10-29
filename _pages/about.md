@@ -44,7 +44,16 @@ My research addresses policy-relevant questions by examining how policy shocks a
 <!-- Line 1 -->
 <!-- Line 1 -->
 <div>
-  <a class="link-blue-bold" href="{{ '/assets/cv_sanghee.pdf' | relative_url }}" target="_blank" rel="noopener">CV</a>
+  <a class="link-blue-bold" href="# from repo root
+git checkout main
+git pull
+git merge --no-ff chore/update-research-md -m "Merge chore/update-research-md into main"
+git push origin main
+
+# optional: tidy up the feature branch
+git branch -d chore/update-research-md
+git push origin --delete chore/update-research-md
+ target="_blank" rel="noopener">CV</a>
   <span class="sep">|</span>
   <a class="link-blue-bold" href="https://www.dropbox.com/scl/fi/5n41hospegh60dkggpc30/Job_Market_Paper.pdf?rlkey=v2yd9mhi5rkgk8ls7xm4z2gvk&st=yqngqcjr&dl=0" target="_blank" rel="noopener">Job Market Paper</a>
   <span class="sep">|</span>
