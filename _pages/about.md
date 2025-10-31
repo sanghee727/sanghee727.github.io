@@ -20,7 +20,7 @@ redirect_from:
 #   About Me
 I am a PhD candidate in Economics at <a href="https://siebelschool.illinois.edu/" style="color: #7289da; text-decoration: none;">University of Illinois, Urbana-Champaign (UIUC)</a>, co-advised by Prof. <a href="https://elizaforsythe.web.illinois.edu" style="color: #7289da; text-decoration: none;">Eliza Forsythe</a> and Prof. <a href="https://sites.google.com/site/benjaminmmarx/" style="color: #7289da; text-decoration: none;">Benjamin M. Marx</a>. 
 <br><br>
-As an applied microeconomist specializing in labor and public economics, my research examines how policies, institutions, and social shocks shape labor-market outcomes, occupational choices, and human capital formation. My work particularly focuses on understanding the persistent barriers to gender equity in the labor market, exploring how structural constraints—such a institutional policies and occupational characteristics—interact to limit women's career advancement and contribute to earnings disparities.
+My research examines how policy and social shocks shape labor-market outcomes, occupational choices, and human capital formation. My work focuses on understanding the persistent barriers to gender equity in the labor market, exploring how structural constraints interact to limit women's career advancement and contribute to earnings disparities.
 <br><br>
 **I will be on the job market in the 2025-2026 academic year**
 
