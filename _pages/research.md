@@ -84,7 +84,6 @@ permalink: /research/
       <summary><strong>Effects of Eliminating Early Morning School Hours on Adolescents’ Sleep Patterns, Health, and Time Use</strong></summary>
       <p>
         Abstract: By examining the nine o'clock attendance policy implemented in Gyeonggi Province of Korea, this paper investigates the effects of eliminating early morning school hours on adolescents’ sleep patterns and health. The analysis shows that the policy significantly delayed adolescents' wake-up times on weekdays. However, this increase in sleep duration was partly offset by postponed bedtimes. Additionally, the sleep gain has decreased over time. On weekends, wake-up times show no statistically significant change while bedtimes shift later, leading to decreased weekend sleep duration. The paper also shows that the policy adversely affected adolescents' health. To identify the possible mechanism, this paper also examines its impact on their time use. The results indicate that adolescents spent more time studying, possibly due to the school imposing additional academic work in response to the later start time. The changes in their time allocation, accompanied by the delayed bedtimes, may have affected their health via the policy.     
-
       </p>
     </details>
   </li>
