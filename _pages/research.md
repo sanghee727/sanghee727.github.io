@@ -70,14 +70,21 @@ permalink: /research/
     </details>
   </li>
 
-  <li>
-    <details>
-      <summary><strong>Unintended Benefits: Immigrant-Inclusive Policy, Mental Health, and Risk Behaviors of Hispanic Adolescents</strong></summary>
-      <p>
-        Abstract: Research shows that restrictive immigration enforcement adversely affects Hispanic communities, yet the effects of immigrant-inclusive policies remain largely unstudied. This paper examines whether state-level sanctuary policies affect mental health and risk behaviors among Hispanic adolescents. Using a difference-in-differences design, the analysis finds substantial mental-health improvements: sadness declines by 10 percent and suicidal ideation by 16 percent. Risk behaviors also fall, with smoking initiation decreasing 35 percent, current smoking 15 percent, and alcohol consumption 9 percent. These findings reveal spillovers beyond the policies’ initial goals, benefiting the broader Hispanic population. Given the links between adolescent mental health and later labor-market outcomes, and the substantial economic costs of risky health behaviors, these results indicate that immigrant-inclusive policies generate broad benefits that should be incorporated into immigration-policy evaluation and design.
-      </p>
-    </details>
-  </li>
+<li>
+  <details>
+    <summary><strong>Unintended Benefits: Immigrant-Inclusive Policy, Mental Health, and Risk Behaviors of Hispanic Adolescents</strong></summary>
+    <p>
+      <strong>Abstract:</strong> Research shows that restrictive immigration enforcement adversely affects Hispanic communities, yet the effects of immigrant-inclusive policies remain largely unstudied. This paper examines whether state-level sanctuary policies affect mental health and risk behaviors among Hispanic adolescents. Using a difference-in-differences design, the analysis finds substantial mental-health improvements: sadness declines by 10 percent and suicidal ideation by 16 percent. Risk behaviors also fall, with smoking initiation decreasing 35 percent, current smoking 15 percent, and alcohol consumption 9 percent. These findings reveal spillovers beyond the policies’ initial goals, benefiting the broader Hispanic population. Given the links between adolescent mental health and later labor-market outcomes, and the substantial economic costs of risky health behaviors, these results indicate that immigrant-inclusive policies generate broad benefits that should be incorporated into immigration-policy evaluation and design.
+    </p>
+
+    <figure class="paper-figure">
+      <img src="{{ '/_pages/images/hispanic.png' | relative_url }}"
+           alt="Effects of sanctuary policies on adolescent outcomes" loading="lazy">
+      <figcaption>Figure: Effects of sanctuary policies on adolescent mental health and risk behaviors.</figcaption>
+    </figure>
+  </details>
+</li>
+
 
   <li>
     <details>
