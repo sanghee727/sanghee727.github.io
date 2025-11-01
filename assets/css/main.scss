@@ -162,3 +162,26 @@ h1:before, .anchor:before {
     margin-bottom: 1em;
   }
   
+
+  /* === Bigger profile avatar in the author sidebar === */
+.page__sidebar .author__avatar,
+.sidebar .author__avatar {
+  width: 220px;   /* try 200–260 to taste */
+}
+
+.author__avatar img {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  max-width: none;   /* prevent theme from shrinking it */
+}
+
+/* Optional: smaller on phones */
+@media (max-width: 480px) {
+  .page__sidebar .author__avatar,
+  .sidebar .author__avatar,
+  .author__avatar img {
+    width: 160px;
+    height: 160px;
+  }
+}
