@@ -185,3 +185,20 @@ h1:before, .anchor:before {
     height: 160px;
   }
 }
+
+  
+/* Mobile-only tweaks: smaller, no squish, keep existing shape */
+@media (max-width: 600px) {
+  .page__sidebar .author__avatar,
+  .sidebar .author__avatar {
+    width: auto;             /* don't force a tight container */
+  }
+
+  .author__avatar img {
+    width: 140px !important; /* scale down for phones */
+    height: auto !important; /* preserve aspect ratio */
+    max-width: 100%;         /* avoid overflow on very small screens */
+    object-fit: cover;       /* crops nicely if constrained by parent */
+    /* border-radius: (leave untouched so desktop shape carries over) */
+  }
+}
