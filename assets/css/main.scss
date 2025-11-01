@@ -171,9 +171,9 @@ h1:before, .anchor:before {
 
 .author__avatar img {
   width: 220px;
-  height: 220px;
-  border-radius: 50%;
-  max-width: none;   /* prevent theme from shrinking it */
+  height: auto;           /* keeps natural aspect ratio */
+  border-radius: 20%;     /* soft oval instead of perfect circle */
+  max-width: none;
 }
 
 /* Optional: smaller on phones */
