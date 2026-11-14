@@ -42,8 +42,18 @@ I received my Ph.D. in Economics from the University of Illinois Urbana-Champaig
  
 <style>
 .page__content {
-  max-width: 750px; /* 원하는 글의 최대 너비 */
-  margin: 0 auto;   /* 좌우 중앙 정렬 */
-  padding: 20px;    /* 주변 패딩 추가 */
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.page__content p {
+  font-size: 1.08rem;
+  line-height: 1.8;
+  margin: 1.1rem 0;
+}
+
+.page__content h1 {
+  margin-bottom: 0.8rem;
 }
 </style>
