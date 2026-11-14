@@ -18,13 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 #   About Me
-I am a PhD candidate in Economics at <a href="https://siebelschool.illinois.edu/" style="color: #7289da; text-decoration: none;">University of Illinois, Urbana-Champaign (UIUC)</a>, co-advised by Prof. <a href="https://elizaforsythe.web.illinois.edu" style="color: #7289da; text-decoration: none;">Eliza Forsythe</a> and Prof. <a href="https://sites.google.com/site/benjaminmmarx/" style="color: #7289da; text-decoration: none;">Benjamin M. Marx</a>. 
-<br><br>
-My research examines how policy and social shocks shape labor-market outcomes, occupational choices, and human capital formation. My work focuses on understanding the persistent barriers to gender equity in the labor market, exploring how structural constraints interact to limit women's career advancement and contribute to earnings disparities.
-<br><br>
-**I will be on the job market in the 2025-2026 academic year**
+I am an economist with the Micro & Institutional Economic Studies Team at the [Economic Research Institute](https://www.bok.or.kr/imer/main/main.do) of the [Bank of Korea](https://www.bok.or.kr/portal/main/main.do).
 
-**Email:** [mun6@illinois.edu](mailto:mun6@illinois.edu)
+I received my Ph.D. in Economics from the University of Illinois Urbana-Champaign (UIUC) in 2026. I also hold a B.A. (2018) and an M.A. (2020) in Economics from Korea University.
+ 
+**Email:** [sanghee@bok.or.kr](mailto:sanghee@bok.or.kr)
 <br><br><br>
  **Research Interests**: Labor Economics,Public Economics, Health Economics, Applied Econometrics
 <style>
@@ -41,50 +39,7 @@ My research examines how policy and social shocks shape labor-market outcomes, o
   .sep { padding: 0 0.4rem; }
 </style>
 
-<!-- Line 1 -->
-<!-- Line 1 -->
-<div>
-  <a class="link-blue-bold" href="https://www.dropbox.com/scl/fi/wjglgvm1y9uka01v5xlxv/Sanghee_CV.pdf?rlkey=q804bo2bm74l4witbu71mf0zb&st=2u89ysol&dl=0" target="_blank" rel="noopener">CV</a>
-  <span class="sep">|</span>
-  <a class="link-blue-bold" href="https://www.dropbox.com/scl/fi/5n41hospegh60dkggpc30/Job_Market_Paper.pdf?rlkey=v2yd9mhi5rkgk8ls7xm4z2gvk&st=yqngqcjr&dl=0" target="_blank" rel="noopener">Job Market Paper</a>
-  <span class="sep">|</span>
-  <a class="link-blue-bold" href="https://www.dropbox.com/scl/fi/ooofasbxinpz58lchql1n/Research_Statement.pdf?rlkey=tivnqhvky6xir4z5kwp7yl7jm&st=b6952q4j&dl=0" target="_blank" rel="noopener">Research Statement</a>
-</div>
-
-<!-- Line 2 -->
-<div style="margin-top:0.4rem;">
-  <a class="link-blue-bold" href="https://www.dropbox.com/scl/fi/50a92nxbx41bbtdlcf5km/Teaching_Statement.pdf?rlkey=018xey7u2lrkh8by42gn5kxsn&st=avs5ksyz&dl=0" target="_blank" rel="noopener">Teaching Statement</a>
-  <span class="sep">|</span>
-  <a class="link-blue-bold" href="https://www.dropbox.com/scl/fi/5q9ra71gqkw7a3ct90mob/Teaching_Effectiveness.pdf?rlkey=3ckaprcbtji3ot6o9ezsc32wn&st=ymdbe7hl&dl=0" target="_blank" rel="noopener">Statement of Teaching Effectiveness</a>
-</div>
-
-<!-- Optional: add Research Statement (uncomment to use)
-<div style="margin-top:0.4rem;">
-  <a class="link-blue-bold" href="https://www.dropbox.com/scl/fi/ooofasbxinpz58lchql1n/Research_Statement.pdf?rlkey=tivnqhvky6xir4z5kwp7yl7jm&st=b6952q4j&dl=0" target="_blank" rel="noopener">Research Statement</a>
-</div>
--->
-
-
-<style>
-  /* clearly increases font size of main content text */
-  .page__content, .page__content p, .page__content li {
-      font-size: 16px;  /* adjust the number clearly as needed */
-  }
-  
-  .page__content h1 {
-      font-size: 24px;
-  }
-
-  .page__content h2 {
-      font-size: 20px;
-  }
-
-  .page__content h3 {
-      font-size: 16px;
-  }
-</style>
-
-
+ 
 <style>
 .page__content {
   max-width: 750px; /* 원하는 글의 최대 너비 */

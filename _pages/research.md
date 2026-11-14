@@ -51,7 +51,10 @@ permalink: /research/
            target="_blank" rel="noopener">
           Disrupted Support, Disrupted Careers: Time Constraints and Skilled Women's Labor Market Response
         </a>
-        <em>(Job Market Paper)</em>
+       <em>(Job Market Paper)</em><br>
+<span style="font-size: 0.9em; color: #555;">
+  Distinguished Graduate Student Paper, Missouri Valley Economic Association (2025)
+</span>
       </summary>
       <p>
         <strong>Abstract:</strong> Skilled women often rely on outsourced household services to maintain demanding careers. This paper examines how disruptions to these services affect skilled women’s labor supply across occupations with different returns to working longer hours. I develop a time-allocation model formalizing the mechanism and test its predictions using the staggered rollout of Secure Communities—an immigration enforcement program that targeted low-skilled immigrants, who constitute a large share of the domestic-service workforce. I show that the policy contracted the household-service market by reducing supply and increasing wages of domestic workers. Consistent with the model, women in occupations with higher returns to working longer hours reduce working hours and reallocate time to household production following the contraction, reflecting their greater reliance on external household services before the shock. Among married women, reductions are smaller when spouses hold flexible jobs. These findings show that tighter time constraints make high-return occupations harder to sustain for women, widening gender gaps within occupations and contributing to broader disparities. The results highlight the importance of household-service capacity and family support for women's advancement in such careers.
